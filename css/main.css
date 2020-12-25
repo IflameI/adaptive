@@ -1681,6 +1681,9 @@ section.stone-bg-item {
 	.header-slider-item-description{
 		width: auto;
 	}
+	.footer-conteiner{
+		display: block;
+	}
 	.header-list-item-sublist{
 		z-index: 1;
 		display: none;
